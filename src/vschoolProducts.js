@@ -32,19 +32,19 @@ const products = [
     {
         id: "6",
         name: "Rubber Duckies",
-        price: 3.50,
+        price: 3,
         description: "To help you solve your hardest coding problems."
     },
     {
         id: "7",
         name: "Fidget Spinner",
-        price: 21.99,
+        price: 21,
         description: "Because we like to pretend we're in high school."
     },
     {
         id: "8",
         name: "Sticker Set",
-        price: 14.99,
+        price: 14,
         description: "To prove to other devs you know a lot."
     }
 ]
